@@ -1,5 +1,7 @@
 export default function Page() {
   return (
-    <p>Hello, world!</p>
+    <div className="p-4">
+      <p>Lorem ipsum dolor sit amet</p>
+    </div>
   )
 }
