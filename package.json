@@ -1,0 +1,36 @@
+{
+  "name": "huffymail-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huffymail/huffymail-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huffymail/huffymail-ui/issues"
+  },
+  "homepage": "https://github.com/huffymail/huffymail-ui#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "typescript": "4.9.5"
+  }
+}
